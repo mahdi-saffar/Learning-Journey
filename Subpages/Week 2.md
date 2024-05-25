@@ -8,6 +8,8 @@
 
 ### Networking
 
+[My CCNA course notes](https://github.com/dadavidson/CCNA-200-301-Course-Jeremys-IT-Lab/)
+
 1. [What is Networking](https://tryhackme.com/room/whatisnetworking)
 2. [Intro to LAN](https://tryhackme.com/room/introtolan)
 3. [What are TCP/IP and OSI?](https://www.youtube.com/watch?v=CRdL1PcherM)
